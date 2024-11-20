@@ -18,8 +18,8 @@ public class LoteriaMexicana {
         }
 
         // Mostrar todas las cartas al inicio
-        //System.out.println("Cartas de la Lotería Mexicana:");
-        //System.out.println(cartasLoteria);
+        System.out.println("Cartas de la Lotería Mexicana:");
+        System.out.println(cartasLoteria);
         System.out.println("Total de cartas: " + cartasLoteria.size());
         System.out.println("\nComenzando a sacar cartas de forma aleatoria...\n");
 
@@ -30,7 +30,7 @@ public class LoteriaMexicana {
             //System.out.println("Carta #" + i + ": " + carta);
         }
 
-        System.out.println("\n¡Todas las cartas han sido sacadas!");
+        System.out.println("\n¡Todas las cartas han sido sacadas!\n!!Loteriaaa");
     }
 }
 
